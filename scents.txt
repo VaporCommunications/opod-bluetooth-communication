@@ -1,0 +1,39 @@
+Central Park,Grass,C
+Central Park,Magnolia,D
+Central Park,Waffle Cone,L
+Central Park,After Rain,G
+Central Park,Soil,N
+Central Park,Lime,B
+Central Park,Big Apple,M
+Central Park,Jasmine,E
+Central Park,Night Air,I
+Cancun Stroll,Guava,O
+Cancun Stroll,Honeysuckle,C
+Cancun Stroll,Lavender,E
+Cancun Stroll,Peppermint,J
+Cancun Stroll,Jasmine,N
+Cancun Stroll,Suntan,M
+Cancun Stroll,Vanilla,B
+Cancun Stroll,Pine,G
+Cancun Stroll,Coconut,L
+Cancun Stroll,Freesia,I
+Cancun Stroll,Lilac,D
+Cancun Stroll,Orange Ginger,H
+Coffee 66,Coffee,B
+Coffee 66,Pumpkin Spice,G
+Coffee 66,Cinnamon,I
+Coffee 66,Chocolate,L
+Coffee 66,Caramel,M
+Coffee 66,Vanilla,N
+Coffee 66,Hazelnut Almond,O
+Coffee 66,Blueberry Muffin,H
+Coffee 66,Apple Strudel,J
+Einstein,Peppermint,I
+Einstein,Grapefruit,H
+Einstein,Seaside,L
+Einstein,Rosemary,B
+Einstein,Ginger,G
+Einstein,Lemon,D
+Einstein,Tea Leaf,C
+Einstein,Coffee,N
+Einstein,Dark Chocolate,M
